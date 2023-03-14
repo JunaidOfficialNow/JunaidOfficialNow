@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junaid
 - 👀 I’m interested in developing web apps
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Web Development
 
 
