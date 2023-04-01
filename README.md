@@ -1,5 +1,5 @@
 ### Junaid - Mean Stack Developer
-Introduction
+
 Hello, and welcome to my GitHub profile! My name is Junaid, and I'm a mean stack developer. I'm passionate about learning and applying new technologies to build modern web applications.
 
 ### Skills
