@@ -5,7 +5,7 @@ Hello, and welcome to my GitHub profile! I'm a mean stack developer. I'm passion
 ### Skills
 Here are some of the technologies and skills that I have learned and I'm confident in:
 
-- Front-end development: Angular, VueJs, NuxtJs, React
+- Front-end development: Angular, React
 - Back-end development: Node.js, NestJS, Express.js, REST APIs, GraphQL
 - Database: MongoDB, Redis, PostgreSQL, MYSQL
 - Version control: Git
