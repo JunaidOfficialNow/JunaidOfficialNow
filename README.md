@@ -9,6 +9,8 @@ Here are some of the technologies and skills that I have learned and I'm confide
 - Back-end development: Node.js, NestJS, Express.js, REST APIs, GraphQL
 - Database: MongoDB, Redis, PostgreSQL, MYSQL
 - Version control: Git
+- Web Server: Nginx
+- DevOps: Nx
 
 ### Contact
 If you have any questions or would like to discuss a potential collaboration, please feel free to contact me at [junaidofficialnow@gmail.com](mailto:junaidofficialnow@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/junaid-jamshed-). I'm always happy to chat with fellow developers and learn new things.
