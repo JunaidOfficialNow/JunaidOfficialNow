@@ -1,4 +1,4 @@
-### Junaid - Mean Stack Developer
+## Junaid - Full Stack Developer
 
 Hello, and welcome to my GitHub profile! I'm a mean stack developer. I'm passionate about learning and applying new technologies to build modern web applications.
 
@@ -6,8 +6,10 @@ Hello, and welcome to my GitHub profile! I'm a mean stack developer. I'm passion
 Here are some of the technologies and skills that I have learned and I'm confident in:
 
 - Front-end development: Angular, React
-- Back-end development: Node.js, NestJS, Express.js, REST APIs, GraphQL
-- Database: MongoDB, Redis, PostgreSQL, MYSQL
+- Back-end development: Node.js, NestJS, Express.js
+- API: REST, GraphQL
+- Database: MongoDB, PostgreSQL, MYSQL
+- Caching: Redis
 - Version control: Git
 - Web Server: Nginx
 - Tools: Nx
