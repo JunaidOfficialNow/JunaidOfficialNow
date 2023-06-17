@@ -7,8 +7,9 @@ Here are some of the technologies and skills that I have learned and I'm confide
 
 - Front-end development: Angular, React
 - Back-end development: Node.js, NestJS, Express.js
-- API: REST, GraphQL
 - Database: MongoDB, PostgreSQL, MYSQL
+- DevOps: Docker, Kubernetes, skaffold
+- API: REST, GraphQL
 - Caching: Redis
 - Version control: Git
 - Web Server: Nginx
