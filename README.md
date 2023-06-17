@@ -7,13 +7,13 @@ Here are some of the technologies and skills that I have learned and I'm confide
 
 - Front-end development: Angular, React
 - Back-end development: Node.js, NestJS, Express.js
-- Database: MongoDB, PostgreSQL, MYSQL
-- DevOps: Docker, Kubernetes, skaffold
+- Database: MongoDB, PostgreSQL, MySQL
+- DevOps: Docker, Kubernetes, Skaffold
 - API: REST, GraphQL
 - Caching: Redis
 - Version control: Git
 - Web Server: Nginx
-- Tools: Nx
+- Tool: Nx
 
 ### Contact
 If you have any questions or would like to discuss a potential collaboration, please feel free to contact me at [junaidofficialnow@gmail.com](mailto:junaidofficialnow@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/junaid-jamshed-). I'm always happy to chat with fellow developers and learn new things.
