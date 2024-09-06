@@ -1,6 +1,6 @@
-## Junaid - Full Stack Developer
+## Junaid - Software Engineer
 
-Hello, and welcome to my GitHub profile! I'm a mean stack developer. I'm passionate about learning and applying new technologies to build modern web applications.
+I just engineer, that's it.
 
 ### Skills
 Here are some of the technologies and skills that I have learned and I'm confident in:
